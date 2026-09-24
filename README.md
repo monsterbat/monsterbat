@@ -1,13 +1,12 @@
 ## Hi, I'm SC 👋
 
-Display optical engineer in Taiwan.
+Display hardware engineer in Taiwan — six years on Meta VR and Apple programs.
 
-### What I do
+### What I build
 
-- **Display hardware** — six years on Meta VR and Apple programs
-- **Measurement data analysis** — process capability, distribution fitting, yield
-- **Python automation** — measurement files to finished reports
-- **AI automation** — local LLMs, speech-to-text and agent workflows on my own hardware
+- **Measurement tools** — desktop apps for optical metrology: capability analysis, distribution fitting, correlation, JMP scripts
+- **Automation** — Python that turns raw measurement files into finished reports
+- **AI workflows** — local LLMs and speech-to-text, running on my own hardware
 
 ### What's here
 
