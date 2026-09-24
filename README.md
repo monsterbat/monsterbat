@@ -1,4 +1,4 @@
-## Hi, I'm SC / MonsterBat
+## Hi, I'm SC / Monster-Bat
 
 Display hardware engineer in Taiwan. Six years on backlight and display quality for Meta VR and Apple products.
 
@@ -20,4 +20,4 @@ and use. If something breaks or you have a question, open an issue.
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/sc-hsiao/) &nbsp;·&nbsp; [monster-bat.com](https://monster-bat.com/) &nbsp;·&nbsp; 📍 Taiwan
+[LinkedIn](https://www.linkedin.com/in/sc-hsiao/) &nbsp;·&nbsp; [monster-bat.com](https://monster-bat.com/)
