@@ -1,4 +1,4 @@
-## Hi, I'm SC 👋
+## Hi, I'm SC / MonsterBat 👋
 
 Display hardware engineer in Taiwan. Six years on backlight and display quality for Meta VR and Apple products.
 
