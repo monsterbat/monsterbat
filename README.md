@@ -1,6 +1,6 @@
 ## Hi, I'm SC 👋
 
-Display hardware engineer in Taiwan — six years on Meta VR and Apple programs.
+Display hardware engineer in Taiwan. Six years on backlight and display quality for Meta VR and Apple products.
 
 ### What I build
 
